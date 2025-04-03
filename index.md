@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Self-supervised Learning for Cancer Pathology Foundation Models
 ---
 
